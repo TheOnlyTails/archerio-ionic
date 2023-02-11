@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">archerio-ionic</string>
+    <string name="title_activity_main">archerio-ionic</string>
+    <string name="package_name">archerioionic.theonlytails.com</string>
+    <string name="custom_url_scheme">archerioionic.theonlytails.com</string>
+</resources>
